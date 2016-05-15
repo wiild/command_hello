@@ -1,7 +1,6 @@
 // For command line git tutorial
 // First : Local repository modification
 // Second : GitHub modification
->>>>>>> origin/master
 
 #include <stdio.h>
 
